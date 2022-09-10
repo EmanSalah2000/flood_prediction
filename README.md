@@ -1,2 +1,2 @@
 # flood_prediction
-flood prediction using fuzzy 
+Using fuzzy logic technique to predict the flood  by using some features ( River Level and Rainfall)
